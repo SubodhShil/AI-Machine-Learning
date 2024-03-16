@@ -6,6 +6,8 @@
 - Training data -> ML Algorithm -> Model 
 - ML engineering is more simply using ML algorithms to put in a box and creating AI model that can solve a problem like humans do in real life. 
 
+## **```ML```**
+
 > Machine learning is a technique to implement AI that can be learn from the data by themselves without being explicitly programmed.
 
 - Teach machine to evaluate result on the basis of data. 
@@ -22,7 +24,16 @@
 
 ### Supervised learning 
 Algorithm learns from labelled data. 
+- Regression: Getting continous output against to the given input.
+- Classfication
 
 ### Unsupervised learning 
 Learns from unlabelled data. 
+- Clustering: Clustering means categorize similar dataset in different individual groups.
+- Association: Find relationship between various cluster data groups. 
+
+> In simple term, in supervised learning ML models are provided both input and output of dataset. Whereas, in unsupervised learning it will guess or predict output using existing supervised test data. 
+
+# NumPy
+This package provide native array implementation.
 
