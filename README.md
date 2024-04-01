@@ -34,6 +34,14 @@ Learns from unlabelled data.
 
 > In simple term, in supervised learning ML models are provided both input and output of dataset. Whereas, in unsupervised learning it will guess or predict output using existing supervised test data. 
 
+## Deep learning
+Utilizes ```artificial neural network``` that replicates actual human brain to make decision. 
+
+## **Tensors**
+Tensor is a data structure or container similar to a n-D array, that stores number or other types. 
+
+### 0D Tensor or Scaler
+Any single number is a scaler.
+
 # NumPy
 This package provide native array implementation.
-
