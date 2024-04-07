@@ -40,8 +40,15 @@ Utilizes ```artificial neural network``` that replicates actual human brain to m
 ## **Tensors**
 Tensor is a data structure or container similar to a n-D array, that stores number or other types. 
 
-### 0D Tensor or Scaler
-Any single number is a scaler.
+### **```0D Tensor or Scaler```**
+Any single number is a scaler. Also said to be 0D tensor.
 
-# NumPy
-This package provide native array implementation.
+### **```1D Tensor/Vector```**
+Collection of scaler is a 1D tensor.
+
+### **```Multidimensional or n-D Tensor```** 
+Collection previous nD tensors.
+
+### **```Metrices```**
+Collection of multiple tensors.
+
