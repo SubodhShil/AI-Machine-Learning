@@ -44,11 +44,33 @@ Tensor is a data structure or container similar to a n-D array, that stores numb
 Any single number is a scaler. Also said to be 0D tensor.
 
 ### **```1D Tensor/Vector```**
-Collection of scaler is a 1D tensor.
+Collection of scaler is a 1D tensor. 
+
+#### nD Vector
+- Dimension of a vector is different from tensor dimension. Dimension of the vector is simply determined by how many number of data it contains. 
+
+### **```2D Tensor/Vector```**
+2D tensor is a collection of multiple 1D tensor or nD vector, which representation looks like a matrix. 
+
+### **```3D Tensor/Vector```**
+
+- **Example of 3D tensors**  
+1. **Timeseries data**  
+2. 
+
+### **```4D Tensor/Vector```**
+
+**Example**: Image processing, computer vision.  
+Images are collection of pixels. 
+
+### **```5D Tensor/Vector```**
+**Example**: Videos.
+- Videos are collection of frames. 1 frame = 1 image.  
 
 ### **```Multidimensional or n-D Tensor```** 
 Collection previous nD tensors.
 
+**Size of a tensor**: Multiplication of shape of the tensor.
+
 ### **```Metrices```**
 Collection of multiple tensors.
-
