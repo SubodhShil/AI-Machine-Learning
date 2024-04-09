@@ -14,4 +14,3 @@ Dataframe is a data structure provided in Pandas library, which gives dataset in
 ### ```Series```
 Series is a singular column dataframe.
 
-

@@ -56,7 +56,8 @@ Collection of scaler is a 1D tensor.
 
 - **Example of 3D tensors**  
 1. **Timeseries data**  
-2. 
+2. **NLP or Natural Language Processing**
+![3D Tensor depiction](./Media/3D_Tensor.jpg "3D Tensor")
 
 ### **```4D Tensor/Vector```**
 
