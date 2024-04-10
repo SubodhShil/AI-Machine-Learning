@@ -7,5 +7,5 @@ The split happens in two divison:
     **3.1)** Test dataset  
     **3.2)** Training dataset
 
-1. Algorithm and Model selection
-2. Deploy or MLOps 
+4. Algorithm and Model selection
+5. Deploy or MLOps 
