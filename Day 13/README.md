@@ -8,4 +8,8 @@ The split happens in two divison:
     **3.2)** Training dataset
 
 4. Algorithm and Model selection
-5. Deploy or MLOps 
+5. Deploy or MLOps
+
+### What is Plot decision boundary?
+
+What kind of pattern the ML model has noticed during training. 
