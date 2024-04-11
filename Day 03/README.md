@@ -2,7 +2,7 @@
 ## **```Business problem to ML problem```**
 
 ### **```Churn rate```**
-The decreasing rate of a users or subscribers after a certain time. 
+The decreasing rate of users or subscribers after a certain time. 
 
 Steps to convert a business problem into ML problem using the following methods:
 
@@ -31,4 +31,6 @@ Data is the prerequisite for establishing any ML model. A ML is model much accur
 ## **```Import dataset through Kaggle API```**
 
 > Downloading and importing dataset is a hectic process and this may take a lot of time if the dataset is large. There is an alternative but easy process to import dataset utilizing the **Kaggle API**. See, [Importing_dataset_through_Kaggle_API.ipynb](./Importing_dataset_through_Kaggle_API.ipynb)
+
+## **```How to handle missing values```**
 
