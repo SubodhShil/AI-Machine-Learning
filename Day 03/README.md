@@ -34,3 +34,24 @@ Data is the prerequisite for establishing any ML model. A ML is model much accur
 
 ## **```How to handle missing values```**
 
+**Methods of handling missing values**: NaN or null values are missing values. We can handle those values using following techniques:
+1. **Dropping**: Simply discard the row that contains the missing value.
+   ```python
+   dataset = dataset.dropna(how="any")
+   ```
+2. **Imputation**: For smaller datasets dropping values doesn't seems to be good for accurate result. So, we may use central tendency, a statistical methods to replace missing values in our dataset.    
+   1. Central tendency:
+      1. Mean: Average value. We can't use mean for skew.
+        ```python
+        dataset.salary.fillna(dataset.salary.median(), inplace=True)
+        ```
+      2. Median
+        ```python
+        dataset.salary.fillna(dataset.salary.mean(), inplace=True)
+        ```
+      3. Mode
+        ```python
+        dataset.salary.fillna(dataset.salary.mode(), inplace=True)
+        ```
+
+
