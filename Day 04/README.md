@@ -1,4 +1,4 @@
-# **```Data Standardization```**
+# **```Data Standardization or feature scaling```**
 
 The process of standardizing the data to a common format and common range.
 
