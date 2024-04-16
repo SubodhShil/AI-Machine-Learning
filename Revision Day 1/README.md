@@ -4,6 +4,8 @@ Where computers being learned without explicitly programmed.
 - **Explicit programming**: Learning using specific algorithms, providing with not a wide range of patterns. Underperformed by humans. 
 - **Machine learning**: Depends on previous actions, experiences, and dataset.
 
+&nbsp;
+
 # **```Types of machine learning```**
 
 1. Supervised learning
@@ -11,7 +13,11 @@ Where computers being learned without explicitly programmed.
 3. Recommender system
 4. Reinforcement Learning
 
+&nbsp;
+
 # **```Supervised learning```**
+
+Supervised learning learn from data labeled with the "right answer".
 
 **Usecases**:
 
@@ -74,7 +80,7 @@ Two types of variables are:
 
 ### **```2. Classification```**
 
-As classification problems works on categorical values. Categorical data can be represented as discrete numerical values by encoding the categories with integers or other numerical labels. Since categories are strictly represent a single value, and categorical values can't be broken into smaller fractions.
+As classification problems works on categorical values. Categorical data can be represented as discrete numerical values by encoding the categories with integers or other numerical labels. Since categories are strictly represent a single value, and categorical values can't be broken into smaller fractions. 
 
 1. Linear classifiers
 2. Support Vector Machines (SVM)
@@ -82,3 +88,42 @@ As classification problems works on categorical values. Categorical data can be 
 4. K-Nearest Neighbor (KNN)
 5. Random Forest
 
+&nbsp;
+
+# **```Unsupervised learning or Clustering```**
+
+Unlike supervised learning algorithms, the unsupervised learning dataset doesn't provided with any corresponding "output or right answers". This is because in unsupervised learning we're not intend to predict any result rather we'll make groups also known as clusters. 
+
+- Algorithm has to determine pattern structure from the given dataset. 
+
+## Types of unsupervised learning algorithms
+- Clustering
+
+&nbsp;
+
+# Linear Regression
+
+Linear regression is a method that let us understand the relationship between dependent and independent variables. 
+- **Usecase**: Prediction, Estimation, Forecasting, Hypothesis testing, and Modeling causal relationships.
+- It predicts continuous value. example: y = mx + c
+- y is target, x is independent feature, m is slope, c is intercept
+- By training on many datapoints, the model understands value of c and m. Then taking any value x, the model can estimate the value y.
+- Simple linear regression = Use 1 independent variable for predicting 1 dependent variable
+- Multiple linear regression = Use multiple independent variables for predicting 1 dependent variable
+- Noise : 
+    - Error in prediction. 
+    - The error is gaussian noise and the residuals show normal distribution properties. 
+    - The more the error, the more spread out the normal distribution (sigma or standard deviation in normal distribution)
+    - The best fit line has the least noise.
+- We define an error function for m and c and choose the line that reduces the error and gain the optimized value for m and c
+- Error function = loss function = cost function
+- Residual = distance between datapoints and the fitted line
+- Our loss function can be RSS (Residual Sum of Squares) the sum of the residuals and our goal is to minimize this value.
+- metrics 
+    - r-squared : percentage of the variance in target values explained by the features. range is 0 to 1
+    - RMSE : Root Mean squared error (Average error in prediction)
+- cross validation : do train-test process in multiple folds and take average to consolidate r-squared.
+- Regularization : penalizes large co-efficients to reduce overfitting. Some regressions that uses regularizations:
+    - Lasso Regression
+    - Ridge Regression
+- Hyperparameter : Variables used to optimize model parameters

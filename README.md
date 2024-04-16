@@ -24,8 +24,8 @@
 
 ### Supervised learning 
 Algorithm learns from labelled data. 
-- Regression: Getting continous output against to the given input.
-- Classfication
+- Regression: Getting continuous output against to the given input.
+- Classification
 
 ### Unsupervised learning 
 Learns from unlabelled data. 
@@ -55,7 +55,7 @@ Collection of scaler is a 1D tensor.
 ### **```3D Tensor/Vector```**
 
 - **Example of 3D tensors**  
-1. **Timeseries data**  
+1. **Timeserver data**  
 2. **NLP or Natural Language Processing**
 ![3D Tensor depiction](./Media/3D_Tensor.jpg "3D Tensor")
 
