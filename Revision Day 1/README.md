@@ -68,7 +68,7 @@ Two types of variables are:
 **```Types of regression algorithms```**
 
 1. Linear regression
-   1. Single linear regression
+   1. Single variable or **univariate** linear regression
    2. Multiple linear regression
 2. Logistic regression
 3. Polynomial regression
@@ -103,6 +103,8 @@ Unlike supervised learning algorithms, the unsupervised learning dataset doesn't
 
 # Linear Regression
 
+![](20240417171954.png)
+
 Linear regression is a method that let us understand the relationship between dependent and independent variables. 
 - **Usecase**: Prediction, Estimation, Forecasting, Hypothesis testing, and Modeling causal relationships.
 - It predicts continuous value. example: y = mx + c
@@ -123,7 +125,8 @@ Linear regression is a method that let us understand the relationship between de
     - r-squared : percentage of the variance in target values explained by the features. range is 0 to 1
     - RMSE : Root Mean squared error (Average error in prediction)
 - cross validation : do train-test process in multiple folds and take average to consolidate r-squared.
-- Regularization : penalizes large co-efficients to reduce overfitting. Some regressions that uses regularizations:
+- Regularization : penalizes large co-efficients to reduce overfitting. Some regressions that uses regularization:
     - Lasso Regression
     - Ridge Regression
 - Hyperparameter : Variables used to optimize model parameters
+
