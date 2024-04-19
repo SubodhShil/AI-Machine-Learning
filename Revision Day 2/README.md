@@ -11,7 +11,7 @@
 
 2. **Unsupervised Learning**: No labels are provided, the algorithm divide dataset into multiple groups or clusters based on similarity of features. So, within a cluster the data is share similar traits whereas between clusters there are abundance of differentiable traits. 
 
-3. **Reinforcement Learning**: Reinforce to do a task by providing rewards if it continues to do the task in the correct way.
+3. **Reinforcement Learning**: Imitate real-world learning process of humans. Reinforce to do a task by providing rewards (if it continues to do the task in the correct way) or penalize (if it is not providing any good result).
 
 &nbsp;
 
