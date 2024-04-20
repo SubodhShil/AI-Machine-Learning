@@ -42,7 +42,7 @@ Depends on the aforementioned values or data supervised learning algorithms can 
 
 ### **```1. Regression```**
 
-**Predict a number (both discrete and continuous values), where could be infinitely many possible outputs.** Regression is a statistical method that helps us by understanding and predicting the relationship between variables.
+**Predict a number (both discrete and continuous values), where could be infinitely many possible outputs.** Regression is a statistical method that helps us by understanding and predicting the relationship between feature (independent) and target (dependent) variables.
 
 Regression analysis aims to establish a relationship between the independent variables (input features) and the dependent variable (output or target variable) to make accurate predictions.
 
