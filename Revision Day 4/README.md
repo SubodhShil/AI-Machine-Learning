@@ -7,4 +7,4 @@
 # **```Linear Regression```**
 
 - It's a prediction algorithm.
-- 
+- Mean is best fit line.
