@@ -29,4 +29,5 @@
 Here,   
 1. **Slop or m** refers the value that determine changes in variable 'X' how much affect in value 'Y'.
 2. **c** is Y intercept.
-3. 
+
+

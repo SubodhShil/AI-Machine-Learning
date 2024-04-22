@@ -1,4 +1,4 @@
-**Features**: All the available input data those are independent.  
+u**Features**: All the available input data those are independent.  
 **Label**: What we have to predict or guess. Labels are dependent on the features data.
 
 > **Q1**: Can we have multiple numbers of features and labels?
@@ -9,7 +9,7 @@
      - Multi-class classification: Contains more than two categories.
    - **Regression**: What to predict, guess or forecast *numerical values* based previously trained features.
 
-2. **Unsupervised Learning**: No labels are provided, the algorithm divide dataset into multiple groups or clusters based on similarity of features. So, within a cluster the data is share similar traits whereas between clusters there are abundance of differentiable traits. 
+2. **Unsupervised Learning**: <u>**No output or label or dependent variable is provided**</u>, the algorithm divide dataset into multiple groups or clusters based on similarity of features. So, within a cluster the data is share similar traits whereas between clusters there are abundance of differentiable traits.
 
 3. **Reinforcement Learning**: Imitate real-world learning process of humans. Reinforce to do a task by providing rewards (if it continues to do the task in the correct way) or penalize (if it is not providing any good result).
 

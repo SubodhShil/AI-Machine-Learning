@@ -47,6 +47,10 @@ Depends on the aforementioned values or data supervised learning algorithms can 
 Regression analysis aims to establish a relationship between the independent variables (input features) and the dependent variable (output or target variable) to make accurate predictions.
 
 
+## Ways to identify a regression problem
+1. Output is a continuous variable. 
+2. 
+
 ### Regression types
 
 - **Positive regression**: Independent variables increase affect positively or increase the value of dependent variables.
@@ -98,6 +102,7 @@ Unlike supervised learning algorithms, the unsupervised learning dataset doesn't
 
 ## Types of unsupervised learning algorithms
 - Clustering
+- Dimensionality reduction
 
 &nbsp;
 
