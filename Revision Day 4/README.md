@@ -30,6 +30,9 @@ Here,
 1. **Slop or m** refers the value that determine changes in variable 'X' how much affect in value 'Y'.
 2. **c** is Y intercept.
 
+### Cost function
+
+Cost function represents the error between the actual value and the predicting value.
 
 ## Mathematical representation
 
