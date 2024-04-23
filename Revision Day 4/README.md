@@ -7,7 +7,7 @@
 # **```Linear Regression```**
 
 - It's a prediction algorithm.
-- Aim: To find the best fit line with minimal error. Here, **```error = predicted point - actual point```**
+- **Aim**: To find the best fit line with minimal error. Here, **```error = predicted point - actual point```**
 
 
 - Mean is best fit line.
@@ -31,3 +31,6 @@ Here,
 2. **c** is Y intercept.
 
 
+## Mathematical representation
+
+![](20240423063510.png)
