@@ -29,7 +29,6 @@
 10. Human computer interaction  
 
 
-
 ### Topics to be learn
 1. Deep learning and computer vision 
    1. Various task of computer vision 
