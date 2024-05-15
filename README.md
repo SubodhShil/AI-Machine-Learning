@@ -6,7 +6,7 @@
 - Training data -> ML Algorithm -> Model 
 - ML engineering is more simply using ML algorithms to put in a box and creating AI model that can solve a problem like humans do in real life. 
 
-![](20240506224550.png)
+![](./4.%20100%20Days%20of%20Machine%20Learning/Media/20240506224550.png)
 
 ## **```ML```**
 
@@ -59,7 +59,7 @@ Collection of scaler is a 1D tensor.
 - **Example of 3D tensors**  
 1. **Timeserver data**  
 2. **NLP or Natural Language Processing**
-![3D Tensor depiction](./Media/3D_Tensor.jpg "3D Tensor")
+![3D Tensor depiction](./4.%20100%20Days%20of%20Machine%20Learning/Media/3D_Tensor.jpg "3D Tensor")
 
 ### **```4D Tensor/Vector```**
 
