@@ -12,3 +12,8 @@ In the context of linear regression, the equation \(y = mx + c\) is used to mode
 
 Together, these variables allow us to model the relationship between the independent and dependent variables in a way that can be used to make predictions or estimates. The goal of linear regression is to find the best-fitting line (the line of best fit) that minimizes the sum of the squared differences between the observed and predicted values of the dependent variable. This line is characterized by the slope (\(m\)) and the y-intercept (\(c\)), which are estimated from the data using statistical methods.
 
+## ```Simple linear regression```
+Prediction relies on single variable or factor. 
+
+
+
