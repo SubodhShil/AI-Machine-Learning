@@ -50,4 +50,3 @@ Two kinds of training data is encountered
 ## Deep learning decision and black box
 
 একটা deep learning model কিভাবে একটি decision নিচ্ছে সেটা জানা যায় না, এই ব্যাপারটাকে black box বলে । To mitigate this problem, we have another field namely **Explainable AI**.
-

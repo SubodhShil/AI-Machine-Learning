@@ -9,3 +9,6 @@ For hidden layers, if you're not sure which activation function should use just 
 ## Binary classification using Neural Network
 
 Suppose we have a (n x n) image. The RGB matrix is a 3 dimensional array. We have to convert the RGB matrix into a single dimensional array.  
+
+## Perceptron
+
