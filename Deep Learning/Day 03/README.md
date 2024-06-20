@@ -1,0 +1,3 @@
+- Individual errors are called loss whereas, cumulative errors are called cost function.
+- epoch is a parameter refers to the iteration time
+- 
