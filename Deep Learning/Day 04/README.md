@@ -1,0 +1,4 @@
+-   Scalar: Scalar is a single number.
+-   Vector: A collection of scalars, also known as 1D arrays.
+-   Matrix: Is a 2D array of numbers.
+-   Tensors: An n-dimensional array.

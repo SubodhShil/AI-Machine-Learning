@@ -3,7 +3,7 @@
 Many complex equations are not suitable solve using linear equations.
 Activation functions help build non-linear equations.
 
-For hidden layers, if you're not sure which activation function should use just use ReLU as default choice. ReLU is fast, and it doesn't have any problems like vanishing gradients. 
+For hidden layers, if you're not sure which activation function should use just use ReLU as default choice. ReLU is performance-efficient, and it doesn't have any problems like vanishing gradients. 
 
 
 ## Binary classification using Neural Network
@@ -12,3 +12,8 @@ Suppose we have a (n x n) image. The RGB matrix is a 3 dimensional array. We hav
 
 ## Perceptron
 
+
+
+## Types of activation functions 
+
+1. Sigmoid activation function: 
