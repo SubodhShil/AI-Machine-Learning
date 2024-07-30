@@ -1,4 +1,4 @@
-Gradient descent is an iterative optimizer algorithm. 
+Gradient descent is an iterative optimizer algorithm.
 
-- Cost (C), Error (E), Loss (L) are all the same 
-- 
+-   Cost (C), Error (E), Loss (L) are all the same
+-
