@@ -56,7 +56,6 @@ Before we get know about PCA, we need to have idea on feature selection.
 # Feature extraction
 
 -   One example of feature extraction could be retrieving numerical value from image data.
--
 
 # EDA
 
@@ -73,6 +72,6 @@ Before we get know about PCA, we need to have idea on feature selection.
 
 Grouping করা । কোন target দেওয়া থাকবে না, ML model নিজে থেকেই grouping করে নিবে ।
 
-### Target:
+### Feature
 
-### Feature:
+### Target
