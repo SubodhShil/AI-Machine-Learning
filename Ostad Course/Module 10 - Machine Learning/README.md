@@ -17,7 +17,7 @@
 
 &nbsp;
 
-# Feature Scaling, PCA
+# Feature Scaling
 
 Feature scaling is also known as feature transformation. কতগুলো random value কে একটা নির্দিষ্ট range (often in smaller numeric range) এর মধ্যে নিয়ে আসাটাই হচ্ছে feature scaling.
 
@@ -27,10 +27,40 @@ Feature scaling is also known as feature transformation. কতগুলো rand
 
 -   Only features should be scaled, target value shouldn't be scaled
 -   Only numeric, quantitative features should be scaled
--   **Normalization or Min-Max Scaler**: After scaling the features should range between 0 and 1
--   
+-   **Normalization or Min-Max Scaler**: After scaling the features should range between 0 and 1.
 
 ![](20240729195418.png)
+
+# PCA (Principal Component Analysis)
+
+Problem with features:
+
+1. A bigger feature size could be an overhead. So, reducing less important features or compressing is good for model training.
+2. Less features can contribute to significantly faster model training and performance.
+
+Before we get know about PCA, we need to have idea on feature selection.
+
+-   Feature selection is filtering out the most important features or columns and get rid of less important feature columns.
+
+---
+
+-   PCA is not feature selection.
+-   PCA is a feature reduction technique, also known as **'dimensionality reduction technique'**.
+-   Feature or column or dimensions are determined and reduced to a suitable size that easily be trained.
+-   Using the PCA technique, N feature columns would be converted into suitable or target column sizes. Unlike feature selection the values would not be wipe out entirely from the dataset rather it would be compress into those target column size.
+-   Feature scaling is mandatory before PCA.
+-   Accuracy might drop if PCA take place.
+
+&nbsp;
+
+# Feature extraction
+
+-   One example of feature extraction could be retrieving numerical value from image data.
+-
+
+# EDA
+
+# Null value handling
 
 ## Supervised Learning
 
@@ -38,6 +68,10 @@ Feature scaling is also known as feature transformation. কতগুলো rand
 
 -   **Classification**: যদি target column এর result গুলো কয়েকটি নির্দিষ্ট value এর মধ্যে সীমাবদ্ধ থাকে (যেমন, Yes, No, Good, Bad, Pass, Fail, etc.), তাহলে সেগুলোকে class হিসেবে চিন্তা করা যায় । এগুলোকেই classification problem বলে ।
 -   **Regression**: যখন target column এর result গুলো কোন নির্দিষ্ট value এর মধ্যে সীমাবদ্ধ থাকে না, সেগুলোকে regression problem বলে ।
+
+## Clustering
+
+Grouping করা । কোন target দেওয়া থাকবে না, ML model নিজে থেকেই grouping করে নিবে ।
 
 ### Target:
 
