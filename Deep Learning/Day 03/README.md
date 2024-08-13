@@ -6,7 +6,4 @@
 -   Sigmoid and tanh has 'vanishing gradients' problem, which makes the learning process quite slow.
 -   Using ReLU instead of sigmoid and tanh it
 
-> Try out various activation function and determine which one fits best for your workflow. 
-
-
-
+> Try out various activation function and determine which one fits best for your workflow.
