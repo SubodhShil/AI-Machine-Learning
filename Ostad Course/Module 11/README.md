@@ -58,4 +58,5 @@ Types of linear regression:
 
 ## Simple linear regression
 
-Linear regression consists of finding the best fitting straight line through the points. The best-fitting line is called a regression line.
+-   Simple linear regression estimates relationship between one independent variable and one dependent variable using a straight line.
+-   Linear regression consists of finding the best fitting straight line through the points. The best-fitting line is called a regression line.
