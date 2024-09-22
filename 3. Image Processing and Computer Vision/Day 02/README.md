@@ -13,3 +13,28 @@ Types of image:
 
 1. Resize all the images to same size.
 2. Convert images into array
+
+### By default, OpenCV reads images in BGR format.
+
+## Color combinations
+
+### Primary Colors
+
+1. **Red**
+2. **Yellow**
+3. **Blue**
+
+### Secondary Colors (created by mixing two primary colors)
+
+1. **Green** = Yellow + Blue
+2. **Orange** = Red + Yellow
+3. **Purple** = Red + Blue
+
+### Tertiary Colors (created by mixing a primary color with a secondary color)
+
+1. **Yellow-Orange** = Yellow + Orange
+2. **Red-Orange** = Red + Orange
+3. **Red-Purple** = Red + Purple
+4. **Blue-Purple** = Blue + Purple
+5. **Blue-Green** = Blue + Green
+6. **Yellow-Green** = Yellow + Green
