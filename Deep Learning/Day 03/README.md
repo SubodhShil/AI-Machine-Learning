@@ -7,3 +7,4 @@
 -   Using ReLU instead of sigmoid and tanh it
 
 > Try out various activation function and determine which one fits best for your workflow.
+
