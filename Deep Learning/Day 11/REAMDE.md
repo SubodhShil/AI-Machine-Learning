@@ -1,5 +1,6 @@
 > # **`Activation function`**
 
 ```
-Forward pass => Loss calculation => Backpropagation =>
+Forward pass => Loss calculation => Backpropagation => 
 ```
+
