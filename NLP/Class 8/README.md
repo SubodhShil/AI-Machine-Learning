@@ -8,5 +8,6 @@
     > **How model learns the pattern from the textual data?**  
     > =>
 
-**One hot encoding**: A vector of 0's and 1's, where position of a word in a text is marked by 1 and rest of the word positions are marked by 0.
+&nbsp;
 
+**One hot encoding**: A vector of 0's and 1's, where position of a word in a text is marked by 1 and rest of the word positions are marked by 0.
