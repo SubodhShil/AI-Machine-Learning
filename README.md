@@ -1,4 +1,4 @@
-## **```AI```**
+## **```AI/Artificial Intelligence```**
 - We want machines to think like humans and take decision. 
 - Machine is more reliable for if continuous and effecient work process.
 - Machines are not biased. 
