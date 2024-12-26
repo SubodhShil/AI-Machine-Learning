@@ -14,9 +14,9 @@
 
 - Teach machine to evaluate result on the basis of data. 
 
-- Machine learning is a AI domain
+- Machine learning is a subset of AI.
 
-**Classic ML**: 
+**Classic ML**:
 
 **Artificial Neural Network**: 
 
