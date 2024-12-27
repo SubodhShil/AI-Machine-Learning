@@ -16,7 +16,7 @@
 
 - Machine learning is a subset of AI.
 
-**Classic ML**: 
+**Classic ML**:
 
 **Artificial Neural Network**: 
 
