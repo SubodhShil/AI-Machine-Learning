@@ -1,5 +1,7 @@
 # **`Linear Regression`**
 
+> It predict values by creating a best fit line.
+
 In the context of linear regression, the equation \(y = mx + c\) is used to model the relationship between a dependent variable (\(y\)) and one or more independent variables (\(x\)). Here's what each variable represents and how they contribute to the model:
 
 -   **\(y\)**: This is the dependent variable, also known as the outcome or target variable. It is the variable we want to predict or estimate based on the values of the independent variables.
@@ -17,5 +19,5 @@ Together, these variables allow us to model the relationship between the indepen
 Prediction relies on single variable or factor.
 
 -   Input variables are also called **'features'**
--
-    
+-   The output variables are called **'labels'**
+

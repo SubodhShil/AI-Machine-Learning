@@ -13,3 +13,4 @@ The split happens in two divison:
 ### What is Plot decision boundary?
 
 What kind of pattern the ML model has noticed during training. 
+
