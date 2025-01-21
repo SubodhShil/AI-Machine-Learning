@@ -15,6 +15,7 @@ Types:
     text = "Hello everyone. Welcome to GeeksforGeeks. You are studying NLP article."
     sent_tokenize(text)
     ```
+
     </details>
 
 2. Word tokenization
@@ -87,3 +88,6 @@ print("Stemmed Words:", stemmed_words)
 4. Deep RNNs
 
 ![](20250112164958.png)
+
+> ## **`Fine tuning vs Hyper parameter tuning`**
+
