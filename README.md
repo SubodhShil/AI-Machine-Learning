@@ -6,7 +6,7 @@
 - Training data -> ML Algorithm -> Model 
 - ML engineering is more simply using ML algorithms to put in a box and creating AI model that can solve a problem like humans do in real life. 
 
-![](./4.%20100%20Days%20of%20Machine%20Learning/Media/20240506224550.png)
+![](./Media/20240506224550.png)
 
 ## **```ML```**
 
