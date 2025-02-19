@@ -12,5 +12,3 @@ It includes two stages:
 1. **Indexing stage**: Help creating the knowledge base or make the LLM accustomed with your own data. Breaks the data into smaller chunks namely nodes or documents.
 2. **Embedding stage**: Transforms textual data into vectors.
 3. **Querying stage**: Create the context based on the custom data. It relate to the most appropriate knowledge base based on the prompt.
-
-

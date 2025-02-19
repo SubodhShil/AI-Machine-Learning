@@ -37,3 +37,4 @@ Cost function represents the error between the actual value and the predicting v
 ## Mathematical representation
 
 ![](20240423063510.png)
+
