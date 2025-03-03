@@ -1,0 +1,7 @@
+streamlit
+requests
+llama-index
+matplotlib
+scikit-image
+pillow
+langchain-community
